@@ -1,2 +1,4 @@
 hello, world!
+new line in the middle!
 another line!
+third line!
